@@ -7,7 +7,7 @@ function App() {
     <div>
       <nav className='nav'>
         <h1>New York Times Best Sellers</h1>
-        <span>icon</span>
+        <span class="material-symbols-outlined">menu</span>
       </nav>
       <div className='container'>
       <div className='books'>
